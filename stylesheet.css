@@ -1,0 +1,100 @@
+﻿#logo {
+    height: 175px;
+    width:200px;
+}
+
+.menubar {
+    background-color: #778899;
+    overflow: hidden;
+}
+
+.menubar a {
+    float: left;
+    color: #FFFAF0;
+    text-align: center;
+    padding: 15px 50px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.menubar a:hover {
+    background-color: #DCDCDC;
+    color: black;
+    text-decoration: none;
+}
+
+.menubar a.active {
+    background-color: #808080;
+    color: white;
+}
+
+.carousel-inner > .carousel-item > img {
+    height: 700px;
+    width: auto;
+}
+
+#scroll-box {
+    height: 700px;
+    overflow-y: scroll;
+}
+
+#chefIntro{
+    float: left;
+    width: 60%;
+    height: 500px;
+    font-size: x-large;
+}
+
+#chef-img1 {
+    float: left;
+    width: 35%;
+    height: 500px;
+    padding-left: 60px;
+}
+
+#restaurantIntro {
+    float: left;
+    width: 35%;
+    height: 500px;
+    font-size: x-large;
+}
+
+#chef-img2 {
+    float: left;
+    width: 35%;
+    height: 500px;
+    padding-top: 100px;
+}
+
+#locationHour{
+    float: left;
+    width: 30%;
+}
+
+.menulist {
+    float: left;
+    width: 50%;
+    font: Lucida Console;
+    font-size: 20px;
+}
+
+.menus {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.downloadButt {
+    width: 25px;
+    height: 25px;
+}
+
+input {
+    border-radius: 4px;
+}
+
+form {
+    font-size: 20px;
+}
